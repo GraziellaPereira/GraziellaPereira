@@ -1,21 +1,20 @@
-# Olá, eu sou Graziella Pereira! 💻
+# Seja bem vindo ao meu perfil!
 ---
 >"Quanto mais estudo, mais sinto que minha mente nisso é insaciável."
 — Ada Lovelace
-![Ada Lovelace](https://en.fundaciontelefonica.com/wp-content/uploads/2022/12/ada-lovelace-2560-png8.png)
+![Header](https://raw.githubusercontent.com/GraziellaPereira/GraziellaPereira/main/headergithub.png)
 
 ## Conheça mais sobre mim 📋
 <details>
 <summary>A minha história</summary>
 
-Meu nome é Graziella Aparecida Pereira, nasci no dia 30 de abril de 2005 e atualmente (quando fiz esse Read Me) tenho 18 anos. Quando eu era criança, sonhava em ser engenharia civil, inclusive, quando saí do ensino fundamental, fiz o processo seletivo do CEFET MG e cursei o ensino médio integrado com o **curso técnico em edificações**. Entretanto, eu comecei em 2020, ano de início da pandemia e do ensino remoto emergencial, no começo, eu gostava das matérias relacionadas à engenharia e arquitetura, mas, no meu segundo ano (2021), eu acabei percebendo que aquela área não cumpria com minhas expectativas de criança, e foi aí que comecei a me interessar pela área de tecnologia e programação. As únicas matérias que prendiam minha atenção eram as que envolviam softwares, especificamente AutoCAD e Excel, mas não pela proposta dessas programas, eu queria entender como era a funcionalidade por trás deles, como aquilo havia sido desenvolvido, então a partir daí eu buscava por informações online em relação à programação e percebi que era com aquilo que eu queria trabalhar, desde então sempre procuro cursos online relacionados ao setor para fazer. O primeiro curso que fiz, foi um de **desenvolvimento de jogos em Pygame**, promovido pelo próprio CEFET para a sua comunidade cefetiana e, recentemente estou cursando faculdade de ***sistemas de informação*** (início no primeiro semestre de 2024), cursos realizados recentemente: **Data Analyst pela Coursera em parceria com a Google e a CIEE**, **Bootcamp Fullstack Java + Angular da Dio em parceria com a Santander**. Atualmente realizando o curso de ***HTML, CSS, e Javascript para desenvolvedores  -
-Universidade Johns Hopkins*** na Coursera.
+
 </details>
 
 <details>
 <summary>Minhas habilidades</summary>
 
-Ainda estou iniciando nesse mundo incrível da programação, mas espero no futuro poder ser uma grande programadora, assim como a mulher que citei no início, Ada Lovelace :)
+
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
