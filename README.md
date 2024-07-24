@@ -1,8 +1,8 @@
-# Seja bem vindo ao meu perfil!
----
->"Quanto mais estudo, mais sinto que minha mente nisso é insaciável."
-— Ada Lovelace
-![Header](https://raw.githubusercontent.com/GraziellaPereira/GraziellaPereira/main/headergithub.png)
+<img width=100% height=250px bottom=50px src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFsNTBiaTYwNXQ1dGlrbnIwenZreDI2Yjc0ZmY1MzJoazQwajFjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qMUEw7zKmGU504wYbu/giphy.gif"/>
+<br>
+<br> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F34A4&width=435&lines=Welcome!+;My+name+is+Graziella;I'm+19+years+old;I'm+a+IT+student+and+i+love+STEM+areas!;Also%2C+I+really+like+front+end+;Last%2C+but+not+least%2C+i'm+from+Brazil!)](https://git.io/typing-svg)
+
 
 ## Conheça mais sobre mim 📋
 <details>
