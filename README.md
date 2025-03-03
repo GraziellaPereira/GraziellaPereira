@@ -21,7 +21,7 @@
 - 💁‍♂️ I like to do bootcamps and contribute to the comunity at [Digital Innovation One](https://www.dio.me/users/graziellapereira52)
 - 🎒 Majoring in Information Systems at university.
 - 📚 Big fan of books.
-- 💖 Girls helping each other in STEM <3
+- 💖 Girls helping other girls in STEM <3
 
 <p align="right">
   <img src="https://visitcount.itsvg.in/api?id=GraziellaPereira&icon=7&color=11" style="padding-right:10px;" />
