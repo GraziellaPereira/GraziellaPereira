@@ -17,7 +17,7 @@
 <p align="left">I am a Full Stack Student with a huge love for UI/UX, Web design, Python and Data Analysis. </p>
 
 - 🌟 Constantly studying to grow up :)
-- 🌱 I’m currently working as an IT internship, I believe that everyday in my work is a learning opportunity.
+- 🌱 I’m currently working as an JR Systems Analist, I believe that everyday in my work is a learning opportunity.
 - 💁‍♂️ I like to do bootcamps and contribute to the comunity at [Digital Innovation One](https://www.dio.me/users/graziellapereira52)
 - 🎒 Majoring in Information Systems at university.
 - 📚 Big fan of books.
