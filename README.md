@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=5F34A4&width=700&lines=Welcome!+;My+name+is+Graziella;I'm+19+years+old;I'm+a+IT+student+and+i+love+STEM+areas!;Also%2C+I+really+like+web+design+;Last%2C+but+not+least%2C+i'm+from+Brazil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=5F34A4&width=700&lines=Welcome!+;My+name+is+Graziella;I'm+20+years+old;I'm+a+IT+student+and+I+love+STEM+areas!;Also%2C+I+really+like+web+design+;Last%2C+but+not+least%2C+i'm+from+Brazil!)](https://git.io/typing-svg)
 
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVmaWYwNW83OHA3dnE2cGhiMzQyYTRlbjlpYjhsa3NrcWY1aHJmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4o8mzVaqOxwWajlaz9/giphy.gif" width="30"/> Lᴇᴛ Mᴇ Iɴᴛʀᴏᴅᴜᴄᴇ Mʏꜱᴇʟꜰ! 
